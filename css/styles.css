@@ -7,7 +7,6 @@ body {
     height: 100%;
     width: 100%;
 }
-
 /* NAVBAR FIRST */
 
 .first-navbar {
@@ -145,6 +144,10 @@ body {
     color: #5d58ef;
 }
 
+.nav-item-last {
+    margin-left: auto;
+}
+
 /* CAROUSEL */
 
 .carousel-indicators li {
@@ -230,6 +233,13 @@ body {
         font-size: 12px;
     }
 
+    .box-with-toys {
+        font-size: 16px;
+    }    
+}
+
+.navbar-links-heading {
+    margin: 0 auto;
 }
 
 /* CAROUSEL ANIMATION */
@@ -486,6 +496,7 @@ body {
         margin-top: 15px;
         margin-bottom: 15px;
     }
+
 }
 
 /* "WHY YOU HAVE TO CHOOSE US" CONTAINER */
@@ -542,6 +553,7 @@ font-family: "Quicksand", sans-serif;
 @media only screen and (max-width: 800px) {
     .right-choice-list-element {
     	width: 100%;
+        font-size: 12px;
     }
 }
 
