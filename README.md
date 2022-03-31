@@ -1,1 +1,1 @@
-# here is a working website https://arkalyk-kindergarten.herokuapp.com/home.html
+# here is a working website https://kindergarten-test.herokuapp.com
